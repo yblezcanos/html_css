@@ -1,18 +1,13 @@
-/*selector element*/
 p {
-    color: blue
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+    line-height: 4;
 }
 
 h1 {
-    color:crimson
-}
-
-/*selector class, para agurpar varios elementos*/
-.ingrediente-faltante {
-    color:blue
-}
-
-/*selector id, para elementos únicos*/
-#ingrediente-secreto {
-    color: pink
+    text-align: center;
 }

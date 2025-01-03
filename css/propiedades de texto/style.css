@@ -1,0 +1,18 @@
+/*selector element*/
+p {
+    color: blue
+}
+
+h1 {
+    color:crimson
+}
+
+/*selector class, para agurpar varios elementos*/
+.ingrediente-faltante {
+    color:blue
+}
+
+/*selector id, para elementos únicos*/
+#ingrediente-secreto {
+    color: pink
+}

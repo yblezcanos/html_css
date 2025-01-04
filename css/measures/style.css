@@ -1,0 +1,34 @@
+
+/*https://htmlcolorcodes.com/color-picker/*/
+/*medidas absolutas: cm centimetros, mm milimetros, in pulgadas, px pixeles, pt puntos, pc
+medidas relativas: porciento, em-multiplica por el valor de la propiedad del padre, si el padre no tiene
+definida la propiedad busca un elemento mas arriba si pongo en el padre
+font-size: 40px y en el hijo 2em significa q el hijo tendria 80px en el font-size, rem lo mismo q em pero
+en vez de buscar en el elemento padre busca en el elemento raiz ---> <html>*/
+body {
+    margin: 0;
+    font-size: 40px;
+}
+div {
+    padding: 4cm;
+    font-family: sans-serif;
+    background: #ededed;
+    border-left: 5px solid #999;
+    width: 80vw;
+    height: 80vw;
+    margin: 0;
+    box-sizing: border-box;
+    margin: auto;
+}
+h1 {
+    margin: 0;
+    font-size: 22px;
+}
+span {
+    color: #999;
+    font-size: 16px;
+    font-weight: 100px;
+}
+p {
+    color: #555;
+}

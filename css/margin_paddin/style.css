@@ -1,9 +1,20 @@
-div {
-    width: 500px;
-    height: 200px;
+.formulario {
     background: red;
+    padding: 10px 0 0px 20px;
 }
-h1 {
-    text-align: center;
-    background-color: pink;
+
+.formulario_input {
+    padding: 6px 10px;
+    width: 98%;
+    background: black;
+    color: white;
+}
+
+.formulario_submit {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background: red;
+    width: 50%;
+    color: white;
+    margin: 40px;
 }

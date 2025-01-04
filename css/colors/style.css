@@ -1,0 +1,13 @@
+/*https://htmlcolorcodes.com/color-picker/*/
+.box {
+    width: 100px;
+    height: 100px;
+    background: #b915ce;
+    margin: 20px;
+}
+.text {
+    color: rgb(21, 197, 206);
+}
+h2 {
+    color: hsl(63, 99%, 38%);
+}

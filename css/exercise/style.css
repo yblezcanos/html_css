@@ -1,28 +1,49 @@
 body {
-    background-color: black;
+    background-color: #fff;
     font-family: sans-serif;
-    color: white;
+    color: #4f4f4f;
 }
 .card {
-    background: coral;
+    background: #d6e5e4;
     text-align: center;
+    height: 600px;
     width: 300px;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 50px;
+    padding: 20px 3px;
+    border-radius: 8px;
 }
-h1 {
-    padding-top: 10px;
+.card-title {
     font-size: 22px;
     margin: 0;
 }
-h2 {
+.card-subtitle {
     font-size: 13px;
     font-weight: 100px;
     letter-spacing: 2px;
+    margin: 0;
+    margin-top: 5px;
 }
-p {
-    font-size: 9px;
-    padding: 20px;
-    background-color: lightcoral;
+.card-content {
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    padding-bottom: 0;
     text-align: justify;
+    margin-bottom: 0;
+}
+.card-img {
+    width: 100px;
+    border-radius: 50%;
+}
+.card-contact {
+    font-size: 13px;
+    margin: 0;
+    margin-top: 20px;
+    text-align: right;
+    margin-right: 10px;
+}
+.email {
+    margin: 0;
+    margin-bottom: 20px;
 }

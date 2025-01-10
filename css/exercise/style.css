@@ -7,11 +7,12 @@ body {
     background: #d6e5e4;
     text-align: center;
     height: 600px;
-    width: 300px;
+    width: 200px;
     margin: auto;
     margin-top: 50px;
     padding: 20px 3px;
     border-radius: 8px;
+    box-sizing: border-box;
 }
 .card-title {
     font-size: 22px;

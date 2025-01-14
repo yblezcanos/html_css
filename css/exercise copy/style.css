@@ -1,0 +1,51 @@
+body {
+    background-color: #fff;
+    font-family: sans-serif;
+    color: #4f4f4f;
+}
+.card {
+    background: #8a8e8d;
+    text-align: center;
+    height: 120px;
+    width: 700px;
+    margin: auto;
+    margin-top: 50px;
+    
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+.card-title {
+    font-size: 22px;
+    margin: 0;
+}
+.card-subtitle {
+    font-size: 13px;
+    font-weight: 100px;
+    letter-spacing: 2px;
+    margin: 0;
+    margin-top: 5px;
+}
+.card-content {
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    padding-bottom: 0;
+    text-align: justify;
+    margin-bottom: 0;
+}
+.card-img {
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+}
+.card-contact {
+    font-size: 13px;
+    margin: 0;
+    margin-top: 20px;
+    text-align: right;
+    margin-right: 10px;
+}
+.email {
+    margin: 0;
+    margin-bottom: 20px;
+}
